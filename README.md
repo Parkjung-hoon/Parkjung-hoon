@@ -1,4 +1,6 @@
-## Hi there 👋
+저는 게임을 좋아하는 박정훈이에요 😄 <br>
+저는 용호중을 다니고있는 1학년이에요 🌱
+
 
 <!--
 **Parkjung-hoon/Parkjung-hoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
